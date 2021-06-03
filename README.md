@@ -19,4 +19,4 @@ My streaks and stuff 😎
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmCheeseman&hide_border=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IAmCheeseman=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheeseman's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmCheeseman)](https://github.com/anuraghazra/github-readme-stats)
