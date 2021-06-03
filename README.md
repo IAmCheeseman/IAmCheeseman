@@ -20,5 +20,3 @@ I'm currently making a game in godot, it's about an astronuat wandering around p
 My streaks and stuff 😎
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmCheeseman&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmCheeseman)](https://github.com/anuraghazra/github-readme-stats)
