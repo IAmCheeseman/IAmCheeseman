@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 My streaks and stuff 😎
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmCheeseman&hide_border=true)
+![](https://github.com/anuraghazra/github-readme-stats)
