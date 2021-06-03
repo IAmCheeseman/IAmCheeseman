@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm currently making a game in godot, it's about an astronuat wandering around planets! :D
+
 My streaks and stuff 😎
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmCheeseman&hide_border=true)
