@@ -23,4 +23,5 @@ My streaks and stuff 😎
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmCheeseman&hide_border=true)
 
-![](https://twitter.com/_IAmCheeseman)
+Discord: IAmCheeseman#0325
+Twitter: https://twitter.com/_IAmCheeseman
