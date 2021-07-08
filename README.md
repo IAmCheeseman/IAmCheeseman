@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm currently making a game in godot, it's about an astronuat wandering around planets! :D
+I'm learning C++ and GMS at the moment.
 
 My streaks and stuff 😎
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmCheeseman&hide_border=true)
+![](https://twitter.com/_IAmCheeseman)
