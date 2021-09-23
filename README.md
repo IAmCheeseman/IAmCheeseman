@@ -15,9 +15,7 @@ a
 - ⚡ Fun fact: ...
 -->
 
-I'm currently making a game in godot, it's about an astronuat wandering around planets! :D
-
-I'm learning C++ and GMS at the moment. Also trying to do better digital . :)
+I'm currently making a game in godot, it's about an astronuat wandering around lab ruins! :D
 
 My streaks and stuff 😎
 
