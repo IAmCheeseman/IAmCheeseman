@@ -23,7 +23,7 @@ My streaks and stuff 😎
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmCheeseman&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmCheeseman)](https://github.com/IAmCheeseman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmCheeseman)](https://github.com/IAmCheeseman/github-readme-stats?layout=compact)
 
 
 
