@@ -6,7 +6,7 @@ My streaks and stuff
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IAmCheeseman&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmCheeseman&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmCheeseman&theme=highcontrast&hide_border=true&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Discord: https://discord.gg/UrbYQU7uKv
