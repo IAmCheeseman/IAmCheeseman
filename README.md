@@ -1,6 +1,6 @@
 ### Hi, I am Cheeseman
 
-I'm currently making a game in godot, it's a roguelike metroidvania about an astronuat wandering around lab ruins! :D
+I'm currently making a game in godot, it's a roguelike metroidvania, an actual metroidvania, about an astronaut wandering around lab ruins! :D
 
 My streaks and stuff
 
