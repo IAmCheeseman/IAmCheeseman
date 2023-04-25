@@ -7,7 +7,7 @@ I use Arch btw
 ## Languages I *know*/mostly know
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
 
-## Stalk me in one or more of these places
+## Stalk me, please
 <a href="https://discord.gg/pbvgUBCj9G"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a>
 <a href="https://www.youtube.com/channel/UCpT4x1vGhCd4H5QBW8sieeA"> <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
 <a href="https://www.reddit.com/user/Chee48"> <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> </a>
