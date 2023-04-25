@@ -1,10 +1,6 @@
-# Hi, I am Cheeseman
+# Hi, I'm Cheeseman frfr
 
-I'm currently making a game in godot, it's a roguelike metroidvania, an actual metroidvania, about an astronaut wandering around lab ruins! Wishlist here if you're reading this for some reason:
-
-<a href="https://store.steampowered.com/app/1928130/Red_Nivis/"> <img alt="Steam" src="https://img.shields.io/badge/Red Nivis-000000?style=for-the-badge&logo=steam&logoColor=white"/> </a>
-
-<hr>
+I use Arch btw
 
 ## Software I use
 <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/> <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="Neovim" src="https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="Alacritty" src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
