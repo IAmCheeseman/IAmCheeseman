@@ -1,11 +1,9 @@
-# Hi, I'm Cheeseman frfr
-
-I use Arch btw
+# iamcheeseman
 
 ## Software I use
 <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/> <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="Neovim" src="https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="Alacritty" src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
 ## Languages I *know*/mostly know
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
+<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
 
 ## Stalk me, please
 <a href="https://discord.gg/pbvgUBCj9G"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a>
