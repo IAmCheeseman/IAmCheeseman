@@ -1,7 +1,7 @@
 # iamcheeseman
 
 ## Languages I know
-<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-3949AA?style=for-the-badge&logo=C&logoColor=white"/> <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
 
 ## Stalk me
 <a href="https://www.youtube.com/channel/UCpT4x1vGhCd4H5QBW8sieeA"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
